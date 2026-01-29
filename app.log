@@ -1,0 +1,3 @@
+2026-01-29 21:13:52,624 - ERROR - Division by zero error occurred
+2026-01-29 21:13:52,625 - ERROR - Invalid data type used for division
+2026-01-29 21:13:52,626 - ERROR - File not found: sample.txt
